@@ -14,7 +14,6 @@ function App() {
       <About />
       <Support />
       <AllInOne />
-      <Pricing />
       <Footer />
     </>
   );
